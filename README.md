@@ -6,7 +6,7 @@ On my GitHub, you’ll find a collection of my projects showcasing not only my t
    
 Let’s build something amazing together! 🚀
 
-<h2 align="center">Languages and Tools:</h2>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
    
@@ -18,6 +18,18 @@ Let’s build something amazing together! 🚀
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" title="Python" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" title="git" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" title="MySQL" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="Spring" title="Spring" />
   </a>
  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -56,9 +68,6 @@ Let’s build something amazing together! 🚀
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
@@ -67,7 +76,7 @@ Let’s build something amazing together! 🚀
   </a>
 </p>
 
-## Socials
+## Contact me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-ahmed-dogan/" target="_blank" rel="noreferrer">

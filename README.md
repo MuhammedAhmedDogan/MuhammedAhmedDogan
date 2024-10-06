@@ -16,6 +16,9 @@ Let’s build something amazing together! 🚀
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" title="JavaScript" />
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" title="Python" />
+  </a>
  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />

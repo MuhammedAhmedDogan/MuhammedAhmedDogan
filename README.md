@@ -1,16 +1,14 @@
 <h1 align="center">Hello there! 👋</h1>
 
-   I am Ahmed, a passionate software developer with a background in civil engineering. With a strong foundation in full-stack development, I enjoy transforming ideas into functional, user-centric applications.
+I am Ahmed, a passionate software developer with a background in civil engineering. I have a solid foundation in full-stack development and enjoy transforming ideas into functional, user-centric applications.
    
-   On my GitHub, you’ll find a collection of my projects showcasing not only my technical abilities but also my dedication to writing clean, efficient code. Feel free to explore my repositories, and if something catches your eye, I’m always open to feedback and       collaboration!
+On my GitHub, you’ll find a collection of my projects showcasing not only my technical abilities but also my dedication to writing clean, efficient code. Feel free to explore my repositories, and if something catches your eye, I’m always open to feedback and       collaboration!
    
-   Let’s build something amazing together! 🚀
+Let’s build something amazing together! 🚀
 
+<h2 align="center">Languages and Tools:</h2>
 
-
-### Languages and Tools:
-
-<p align="left">
+<p align="center">
    
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" title="Java" />

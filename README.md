@@ -6,7 +6,7 @@ On my GitHub, you’ll find a collection of my projects showcasing not only my t
 
 Let’s build something amazing together! 🚀
 
-## Skills
+# Languages and Tools:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

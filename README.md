@@ -9,13 +9,13 @@ Let’s build something amazing together! 🚀
 ### Languages and Tools:
 
 <p align="left">
-  
+   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <<img src="https://skillicons.dev/icons?i=js" alt="Java" title="Java" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript />
+    <img src="https://skillicons.dev/icons?i=java" alt="JavaScript" title="JavaScript" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
+ 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>

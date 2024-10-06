@@ -9,6 +9,7 @@ Let’s build something amazing together! 🚀
 ### Languages and Tools:
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaaScript" />
   </a>

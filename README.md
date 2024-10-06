@@ -62,4 +62,7 @@ Let’s build something amazing together! 🚀
   <a href="https://www.linkedin.com/in/muhammed-ahmed-dogan/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
   </a>
+   <a href="https://discordapp.com/users/663919543080452136" target="_blank" rel="noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord" title="Discord" />
+  </a>
 </p>

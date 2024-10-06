@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋</h2>
+<h1 align="center">Hello there! 👋</h1>
 <p align="center">
    I am Ahmed, a passionate software developer with a background in civil engineering. With a strong foundation in full-stack development, I enjoy transforming ideas into functional, user-centric applications.
    On my GitHub, you’ll find a collection of my projects showcasing not only my technical abilities but also my dedication to writing clean, efficient code. Feel free to explore my repositories, and if something catches your eye, I’m always open to feedback and       collaboration!

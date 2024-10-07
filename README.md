@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋</h1>
+# <h1 align="center">Hello there! 👋</h1>
 
 I am Ahmed, a passionate software developer with a background in civil engineering. I have a solid foundation in full-stack development and enjoy transforming ideas into functional, user-centric applications.
    
@@ -6,7 +6,7 @@ On my GitHub, you’ll find a collection of my projects showcasing not only my t
    
 Let’s build something amazing together! 🚀
 
-<h3 align="center">Languages and Tools</h3>
+## <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">

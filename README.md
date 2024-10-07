@@ -1,4 +1,4 @@
-# <h1 align="center">Hello there! 👋</h1>
+<h1 align="center">Hello there! 👋</h1>
 
 I am Ahmed, a passionate software developer with a background in civil engineering. I have a solid foundation in full-stack development and enjoy transforming ideas into functional, user-centric applications.
    

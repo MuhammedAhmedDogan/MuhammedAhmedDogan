@@ -8,8 +8,8 @@ Let’s build something amazing together! 🚀
 
 
 <h3 align="center">Languages and Tools</h3>
-##
-<p align="center">
+
+## <p align="center">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" title="git" />
    </a>

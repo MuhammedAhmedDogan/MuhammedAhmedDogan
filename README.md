@@ -53,7 +53,7 @@ Let’s build something amazing together! 🚀
   </a>
 </p>
 
-<h3 align="center">Contact me</h3>
+### <h3 align="center">Contact me</h3>
 
 <p align="center">
    <a href="mailto:m.ahmddogan@gmail.com" target="_blank" rel="noreferrer">

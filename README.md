@@ -6,7 +6,7 @@ On my GitHub, you’ll find a collection of my projects showcasing not only my t
    
 Let’s build something amazing together! 🚀
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@ Let’s build something amazing together! 🚀
   </a>
 </p>
 
-<h3 align="center">Contact me::</h3>
+<h3 align="center">Contact me</h3>
 
 <p align="center">
    <a href="mailto:m.ahmddogan@gmail.com" target="_blank" rel="noreferrer">
